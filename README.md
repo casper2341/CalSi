@@ -1,5 +1,7 @@
 
-Simple Calculator
+Simple Calculator Android App
+
+Only 1 Activity is being used
 
 We can perform 
 addition
